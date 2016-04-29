@@ -1,0 +1,8 @@
+public/*.js
+public/*.css
+public/*.eot
+public/*.woff
+public/*.svg
+public/*.woff2
+node_modules/
+typings

@@ -1,0 +1,11 @@
+{
+  "ambientDependencies": {
+    "express": "registry:dt/express#4.0.0+20160317120654",
+    "flux": "registry:dt/flux#0.0.0+20160317120654",
+    "jquery": "registry:dt/jquery#1.10.0+20160316155526",
+    "mocha": "registry:dt/mocha#2.2.5+20160317120654",
+    "mongoose": "registry:dt/mongoose#3.8.5+20160316155526",
+    "react": "registry:dt/react#0.14.0+20160319053454",
+    "sinon": "registry:dt/sinon#1.16.0+20160317120654"
+  }
+}

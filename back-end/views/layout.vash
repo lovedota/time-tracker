@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>@model.title</title>
+		 <link href="styles.css" rel="stylesheet"/>
+	</head>
+	<body>		
+		@html.block('content')
+        
+        @html.include('footer')
+        
+		<script src="vendor.js"></script>
+        <script src="javascripts.js"></script>
+	</body>
+</html>
